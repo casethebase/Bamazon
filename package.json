@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Shopping cart app built with Node.js and MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casethebase/bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/casethebase/Bamazon/issues"
+  },
+  "homepage": "https://github.com/casethebase/Bamazon#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "easy-table": "^1.1.1",
+    "inquirer": "^3.3.0",
+    "mysql": "^2.15.0"
+  }
+}
